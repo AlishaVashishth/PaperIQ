@@ -65,8 +65,8 @@ http://localhost:8501
 #### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/HydraDocOc/gemini-pdf-chatbot.git
-cd gemini-pdf-chatbot
+git clone https://github.com/AlishaVashishth/PaperIQ.git
+cd PaperIQ
 ```
 
 #### 2️⃣ Install Dependencies
@@ -103,7 +103,7 @@ streamlit run main.py
 ## 📁 Project Structure
 
 ```
-gemini-pdf-chatbot/
+PaperIQ/
 │
 ├── app.py              # Main Streamlit application
 ├── main.py             # Entry point
@@ -144,5 +144,5 @@ gemini-pdf-chatbot/
 
 ## 👤 Author
 
-**Dhawal Goyal**
+**Alisha Vashishth**
 # PaperIQ
