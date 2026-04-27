@@ -1,4 +1,4 @@
-# 📄 Gemini PDF Chatbot
+# PaperIQ
 
 **Gemini PDF Chatbot** is an AI-powered document assistant built with Streamlit that enables users to interact conversationally with one or multiple PDF documents. The system extracts, processes, and indexes document content, allowing natural-language question answering grounded strictly in the uploaded files.
 
